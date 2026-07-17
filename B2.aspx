@@ -21,5 +21,6 @@
         </div>
         <asp:Label ID="lblres" runat="server" ForeColor="Red"></asp:Label>
     </form>
+    <script src="script.js"></script>
 </body>
 </html>
